@@ -1,0 +1,11 @@
+# Xcode
+*.xcodeproj
+info.plist
+
+# Files
+ApiKey.swift
+
+
+# Finder
+.DS_Store
+
