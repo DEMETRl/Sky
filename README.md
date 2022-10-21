@@ -4,3 +4,6 @@ A weather app that uses the [Openweathermap](https://openweathermap.org) api and
 
 
 
+<img src='/Screenshots/screenshot1.png' width='350'>
+<img src='/Screenshots/screenshot2.png' width='350'>
+<img src='/Screenshots/screenshot3.png' width='350'>
